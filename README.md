@@ -1,3 +1,5 @@
+⚠️ This was 95% written by Claude. I am not liable for innacurate information or bugs
+
 # Ethereum L1 DHT: Validator Deanonymization & P2P Topology Research
 
 Passive toolkit for mapping Ethereum L1 consensus validators to network endpoints and building P2P topology maps.
