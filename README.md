@@ -1,4 +1,4 @@
-⚠️ This was 95% written by Agents as a research experiment. May contain innacurate information and bugs :warning
+⚠️ This was 95% written by Agents as a research experiment. May contain innacurate information and bugs ⚠️
 
 # Ethereum L1 DHT: Validator Deanonymization & P2P Topology Research
 
