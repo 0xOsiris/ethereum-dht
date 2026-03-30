@@ -1,0 +1,1 @@
+validator_index,validator_pubkey,slot,peer_id,peer_ip,peer_user_agent,peer_port,p2p_msg_id,method,confidence,crawled_node_kind,crawled_fork_digest,observed_at
